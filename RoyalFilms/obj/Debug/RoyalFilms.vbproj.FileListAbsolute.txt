@@ -1,0 +1,14 @@
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\bin\Debug\RoyalFilms.exe.config
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\bin\Debug\RoyalFilms.exe
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\bin\Debug\RoyalFilms.pdb
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\bin\Debug\RoyalFilms.xml
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\obj\Debug\RoyalFilms.vbprojAssemblyReference.cache
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\obj\Debug\RoyalFilms.Form1.resources
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\obj\Debug\RoyalFilms.Resources.resources
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\obj\Debug\RoyalFilms.vbproj.GenerateResource.cache
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\obj\Debug\RoyalFilms.exe
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\obj\Debug\RoyalFilms.xml
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\obj\Debug\RoyalFilms.pdb
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kevyn.DESKTOP-FH5NT57\source\repos\RoyalFilms\RoyalFilms\obj\Debug\RoyalFilms.vbproj.CopyComplete
